@@ -88,6 +88,19 @@
                   
                
    </div>
+  <h1 align="center">My References</h1>
+  
+<div class="">
+  <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
+              <ul class="w3-ul" style="font-weight: 500;">
+                <li></li>
+                <li>kenanyildirim05@gmail.com</li>
+              </ul>
+              <h4>Edward D., Senior Security Technical Program Manager at Amazon</h4>
+              <ul class="w3-ul" style="font-weight: 500;">
+                <li></li>
+                <li>edemirciokc@gmail.com</li>
+  </ul></div>
 <!--
  ```diff
 - text in red
