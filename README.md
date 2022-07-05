@@ -50,18 +50,18 @@
               </div>
 
 <h3>North East ISD & Corpus Christi ISD</h3>
+<p>PreCalculus, Geometry and Algebra 2 Instructor</p>
  <p> August 2017 – May 2022 </p>
           </p>
                 <ul class="w3-ul" style="font-weight: 500;">
-   <li>PreCalculus, Geometry and Algebra 2 Instructor</li>
+   
                   <li>A Performed administrative tasks like data management, data analysis of test scores, and data presentations. 
                   </li>
                   <li>
                      Developed and implemented a timeline to achieve targets. Delegated the task among the team members and conducted the training of team members.
                     </li>
                  
-                </ul>
-              </div>
+               
       
   
 <p align="center">
