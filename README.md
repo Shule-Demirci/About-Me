@@ -49,7 +49,19 @@
                 </ul>
               </div>
 
+<h3 align="center">NORTH EAST ISD & CCISD</h3>
+ <p> August 2017 – May 2022 </p>
+                <p>
 
+                </p>
+                <ul class="w3-ul" style="font-weight: 500;">
+                  <li>UTA OnRAMPS Pre-Calculus (Honors), College Algebra Instructor</li>
+                 <li>- Performed administrative tasks like data management, data analysis of test scores, and data presentations. 
+                </li>
+                  <li>- Guided colleagues on how to overcome the complex scenarios when they are experiencing some critical issues like duplicating records, bug fixes in the SIS system, etc. Delegated the task among the team members and conducted the training of team members. 
+                  </li> 
+                </ul>
+              </div>
 
 <p align="center">
 <br/>
