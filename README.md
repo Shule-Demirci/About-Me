@@ -60,16 +60,14 @@
                 </ul>
                 <h3>School of Science and Technology and Harmony Public Schools</h3>
 <p>PreCalculus, Geometry and Algebra 2 Instructor</p>
- <p> August 2017 – May 2022 </p>
+ <p> August 2011 – May 2016</p>
            <ul class="w3-ul" style="font-weight: 500;">
                   <li>Performed administrative tasks like data management, data analysis of test scores, and data presentations
                   </li>
                   <li>
-                   Developed and implemented a timeline to achieve targets. Delegated the task among the team members and conducted the training of team members. 
-
-                    </li>
+                   Developed and implemented a timeline to achieve targets. Delegated the task among the team members and conducted the training of team members.</li>
                 </ul>
-              </div>
+            
 <h1 align="center">My Education</h1>
 <div class="">
   <h4>Bachelors of Mathematics , Abant Izzet Baysal Univeristy (Bolu, Turkey)</h4>
