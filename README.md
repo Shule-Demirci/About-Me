@@ -86,7 +86,7 @@
                   <li>APEX Programming (Advance), CRM, HTML, Machine Learning, Statistics, Tableau, SQL, Problem-Solving (Advance), Mathematics, Javascripts, AWS (Basic), Data Modeling Python Programming (Intermediate), JIRA 
                   </li>
                   
-                </ul>
+               
    </div>
 <!--
  ```diff
