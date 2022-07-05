@@ -30,7 +30,7 @@
 <br />
 
 
-<h2 align="center">My Employment History</h2>
+<h1 align="center">My Employment History</h1>
 
 <div class="">
                 <h4>Salesforce Developer Intern at Triforcia</h4>
