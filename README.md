@@ -30,17 +30,7 @@
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Salesforce.com</b> 
-- <b>Apex</b>
-- <b>Salesforce CRM platforms </b>
-- <b>Agile Development Methodology </b>
-- <b>Salesforce Automation Tools</b>
-- <b>Lightning Web Component</b>
-- <b>Visualforce</b>
-
-
+<h1 align="center">My Employment History</h1>
 
 
 
