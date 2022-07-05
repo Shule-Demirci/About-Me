@@ -49,7 +49,7 @@
                 </ul>
               </div>
 
-<h3 align="center">NORTH EAST ISD & CCISD</h3>
+<h3>North East ISD & Corpus Christi ISD</h3>
  <p> August 2017 – May 2022 </p>
                 <p>
 
