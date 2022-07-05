@@ -91,7 +91,7 @@
               </ul>
   <h4>Technical skills</h4>
                 <ul class="w3-ul" style="font-weight: 500;">
-                  <li>APEX Programming (Advance), CRM, HTML, Machine Learning, Statistics, Tableau, SQL, Problem-Solving (Advance), Mathematics, Javascripts, AWS (Basic), Data Modeling Python Programming (Intermediate), JIRA 
+                  <li>APEX Programming (Advance), CRM, HTML, Machine Learning, Statistics, Tableau, SQL, Problem-Solving (Advance), Mathematics, Javascripts, AWS (Basic), Data Modeling Python Programming, JIRA 
                   </li>
                   
                
