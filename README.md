@@ -1,11 +1,6 @@
-<html>
-<head>
-<style>
-h1 {text-align: center;}
+
 <h1>About Me</h1>
-  </style>
-</head>
-<body>
+
 
 <p align= "center">
 <img src="myport.jpg" alt="#" class="center" >
