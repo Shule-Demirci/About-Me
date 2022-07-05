@@ -22,7 +22,8 @@
              <ul> <il> - Created a YouTube Channel based on APEX Tutorials  </ul></il> 
              <ul> <il> - Realized I CAN shift careers </ul></il> 
             </p>
- 
+ <p class=""> Outside of my passion for Salesforce, I enjoy spending time with my family, traveling, taking photos, and cooking. 
+            </p>
 
 <br />
 
