@@ -46,8 +46,7 @@
                   </li>
                   <li> Created customized UI as per the client and application requirements. Experienced in Lightning app builder and implemented new applications based on Lightning to have.
                   </li>
-                </ul>
-              </div>
+                
 
 <h3>North East ISD & Corpus Christi ISD</h3>
 <p>PreCalculus(Honors UTA OnRamps), College Algebra Instructor</p>
