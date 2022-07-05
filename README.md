@@ -8,7 +8,8 @@
 </p>
 <p> 
               I'm Shule Demirci, Certified Salesforce Developer with 12 years of expertise in the education industry who is dedicated to ensuring that networks built on the Salesforce.com platform and other tools perform smoothly and successfully in order to better assist sales and the entire business. Experienced in configuration, customization, programming with APEX, Triggers, Workflows with actions, Approval Processes, Reports & Dashboards.
-            </p>
+            </p> <br></br>
+            <p>I am also actively engaging with various Salesforce Community Groups to create meaningful connections within the Salesforce Ecosystem. Currently, I am an intern at a Salesforce Consulting company to expand my knowledge, create real life projects and network with individuals who are in the Salesforcespace.</p>
 
 
  
