@@ -89,17 +89,20 @@
                
    </div>
   <h1 align="center">My References</h1>
-  
-<div class="">
-  <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
+  <div class="w3-container w3-margin-top-2 w3-cursive">
+              <h3 class="w3-border-amber">MY REFERENCES</h3>
+              <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
               <ul class="w3-ul" style="font-weight: 500;">
+                <li></li>
                 <li>kenanyildirim05@gmail.com</li>
-                
               </ul>
               <h4>Edward D., Senior Security Technical Program Manager at Amazon</h4>
               <ul class="w3-ul" style="font-weight: 500;">
+                <li></li>
                 <li>edemirciokc@gmail.com</li>
-  </ul></div>
+              </ul>
+            </div>            
+          </div>
 <!--
  ```diff
 - text in red
