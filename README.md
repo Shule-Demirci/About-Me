@@ -7,9 +7,7 @@
 
 </p>
 <p class="w3-margin-top-2"> 
-              If you came to this page means, you want to know more about me.
-
-Thanks for taking your time to visit here, please allow me to introduce myself.</p>
+              If you came to this page means, you want to know more about me. Thanks for taking your time to visit here, please allow me to introduce myself.</p>
 <p> 
               I'm Shule Demirci, Certified Salesforce Developer with 12 years of expertise in the education industry who is dedicated to ensuring that networks built on the Salesforce.com platform and other tools perform smoothly and successfully in order to better assist sales and the entire business. Experienced in configuration, customization, programming with APEX, Triggers, Workflows with actions, Approval Processes, Reports & Dashboards.
             </p> 
