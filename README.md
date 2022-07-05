@@ -60,7 +60,7 @@
                     </li>
                 </ul>
               </div>
-<h4 align="center">My Education</h2>
+<h1 align="center">My Education</h1>
 <div class="">
   
   
