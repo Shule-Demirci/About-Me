@@ -91,5 +91,6 @@
   <h1 align="center">My References</h1>
   <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
   <ul> <li> kenanyildirim05@gmail.com</li></ul>
-                <li> Highly innovative for investigating and researching different processes to offer different improvements and solution for the benefit of the organization </li>
+  <h4>Edward D., Senior Security Technical Program Manager at Amazon</h4>
+  <ul>     <li> edemirciokc@gmail.com </li> </ul>
 
