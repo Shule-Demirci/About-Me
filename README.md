@@ -51,10 +51,7 @@
 
 <h3>North East ISD & Corpus Christi ISD</h3>
  <p> August 2017 – May 2022 </p>
-                <p>
-
-                </p>
-                <ul class="w3-ul" style="font-weight: 500;">
+                
                   <li>UTA OnRAMPS Pre-Calculus (Honors), College Algebra Instructor</li>
                  <li>- Performed administrative tasks like data management, data analysis of test scores, and data presentations. 
                 </li>
