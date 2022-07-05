@@ -1,5 +1,5 @@
 <p align= "center">
-<h1>About Me </h1>
+<h1>About Me class="center"</h1>
 </p>
 <p align= "center">
 <img src="myport.jpg" alt="#" class="center" >
