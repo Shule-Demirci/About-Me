@@ -89,13 +89,7 @@
                
    </div>
   <h1 align="center">My References</h1>
+  <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
  <li> Excellent leadership, communication (written and oral) and interpersonal skills</li>
                 <li> Highly innovative for investigating and researching different processes to offer different improvements and solution for the benefit of the organization </li>
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
