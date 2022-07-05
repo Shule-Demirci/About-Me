@@ -93,12 +93,11 @@
 <div class="">
   <h4>Kenan Yildirim, Lead Application Developer at Deloitte </h4>
               <ul class="w3-ul" style="font-weight: 500;">
-                
                 <li>kenanyildirim05@gmail.com</li>
+                
               </ul>
               <h4>Edward D., Senior Security Technical Program Manager at Amazon</h4>
               <ul class="w3-ul" style="font-weight: 500;">
-          
                 <li>edemirciokc@gmail.com</li>
   </ul></div>
 <!--
