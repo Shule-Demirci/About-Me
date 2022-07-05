@@ -53,59 +53,8 @@
 <p>PreCalculus, Geometry and Algebra 2 Instructor</p>
  <p> August 2017 – May 2022 </p>
           
-                <ul class="w3-ul" style="font-weight: 500;">
-   
-                  <li>A Performed administrative tasks like data management, data analysis of test scores, and data presentations. 
-                  </li>
-                  <li>
-                     Developed and implemented a timeline to achieve targets. Delegated the task among the team members and conducted the training of team members.
-                    </li>
-                 
-               </ul>
-      
-  
-<p align="center">
-<br/>
-<img src="Lucid Chart .png"/>
-<br />
-<br />
-  <br/>
-<img src="Cruise Project/Request .png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- <br/>
-<img src="Cruise Project/Request 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- <br/>
-<img src="Cruise Project/Yacht Booking Collection.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Cruise Project/Booking Object.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Cruise Project/Passenger Object.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Cruise Project/Services.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Cruise Project/Cruise Rooms.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Cruise Project/Lucid Chart 2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
-<img src="Tasks to Complete .png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-</br>
+               
+
 <!--
  ```diff
 - text in red
