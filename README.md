@@ -1,6 +1,6 @@
 <h1>About Me </h1>
 
-<img src="myport.jpg" alt="#">
+<img src="myport.jpg" alt="#" width ="600" height="300">
 - <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
 
 <p> 
