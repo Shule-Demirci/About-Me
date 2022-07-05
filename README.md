@@ -1,6 +1,12 @@
-<p align= "center">
-<h1>About Me class="center"</h1>
-</p>
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+<h1>About Me</h1>
+  </style>
+</head>
+<body>
+
 <p align= "center">
 <img src="myport.jpg" alt="#" class="center" >
 - <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
