@@ -81,6 +81,12 @@
                 <li> Experience establishing information systems standards and best practices in high availability and scalability environments</li>
                 <li> Excellent written/verbal communication and interpersonal skills</li>
               </ul>
+  <h4>Technical skills</h4>
+                <ul class="w3-ul" style="font-weight: 500;">
+                  <li>APEX Programming (Advance), CRM, HTML, Machine Learning, Statistics, Tableau, SQL, Problem-Solving (Advance), Mathematics, Javascripts, AWS (Basic), Data Modeling Python Programming (Intermediate), JIRA 
+                  </li>
+                  
+                </ul>
    </div>
 <!--
  ```diff
