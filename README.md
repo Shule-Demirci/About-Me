@@ -1,4 +1,6 @@
+<p align= "center">
 <h1>About Me </h1>
+</p>
 <p align= "center">
 <img src="myport.jpg" alt="#" class="center" >
 - <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
