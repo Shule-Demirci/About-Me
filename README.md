@@ -73,13 +73,13 @@
 <div class="">
   <h4>Soft skills</h4>
   <ul class="w3-ul" style="font-weight: 500;">
-                <li>- Excellent leadership, communication (written and oral) and interpersonal skills</li>
-                <li>- Highly innovative for investigating and researching different processes to offer different improvements and solution for the benefit of the organization </li>
-                <li>- Flexible and self-directed - Strong organization skills</li>
-                <li>- Demonstrated organizational skills and detail orientation with ability to multi-task in a fast-paced environment with competing priorities</li>
-                <li>- Strong interpersonal skills. The ability to translate technical jargon into terms that business users can understand</li>
-                <li>- Experience establishing information systems standards and best practices in high availability and scalability environments</li>
-                <li>- Excellent written/verbal communication and interpersonal skills</li>
+                <li> Excellent leadership, communication (written and oral) and interpersonal skills</li>
+                <li> Highly innovative for investigating and researching different processes to offer different improvements and solution for the benefit of the organization </li>
+                <li> Flexible and self-directed - Strong organization skills</li>
+                <li> Demonstrated organizational skills and detail orientation with ability to multi-task in a fast-paced environment with competing priorities</li>
+                <li> Strong interpersonal skills. The ability to translate technical jargon into terms that business users can understand</li>
+                <li> Experience establishing information systems standards and best practices in high availability and scalability environments</li>
+                <li> Excellent written/verbal communication and interpersonal skills</li>
               </ul>
    </div>
 <!--
