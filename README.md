@@ -40,11 +40,11 @@
                   <li>A Salesforce Consulting company providing a full service to helping businesses get the most out of Salesforce.
                   </li>
                   <li>
-                    - Developed various Custom Objects, Components, Controllers, Custom Reports, Custom Tabs, Labels, Visual force pages, Validation Rules, Approval Processes, and report folders for different users and profiles based on the requirement. 
+                     Developed various Custom Objects, Components, Controllers, Custom Reports, Custom Tabs, Labels, Visual force pages, Validation Rules, Approval Processes, and report folders for different users and profiles based on the requirement. 
                     </li>
-                  <li>- Designed and developed SFA in the Saleforce.com environment with Apex programming language at the backend and Visual Force pages as the user interface.
+                  <li> Designed and developed SFA in the Saleforce.com environment with Apex programming language at the backend and Visual Force pages as the user interface.
                   </li>
-                  <li>- Created customized UI as per the client and application requirements. Experienced in Lightning app builder and implemented new applications based on Lightning to have.
+                  <li> Created customized UI as per the client and application requirements. Experienced in Lightning app builder and implemented new applications based on Lightning to have.
                   </li>
                 </ul>
               </div>
