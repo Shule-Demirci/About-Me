@@ -62,7 +62,11 @@
               </div>
 <h1 align="center">My Education</h1>
 <div class="">
-  
+  <h4>Bachelors of Mathematics , Abant Izzet Baysal Univeristy (Bolu, Turkey)</h4>
+                <p>August 2004 - June 2009 </p>
+                <h4>Masters of Mathematics Education, University of Texas at Arlington (Arlington,Texas)
+                </h4>
+                <p>April 2014 - May 2016 </p>
   
   </div>
                
