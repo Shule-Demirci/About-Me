@@ -11,7 +11,17 @@
             </p> <br></br>
             <p>I am also actively engaging with various Salesforce Community Groups to create meaningful connections within the Salesforce Ecosystem. Currently, I am an intern at a Salesforce Consulting company to expand my knowledge, create real life projects and network with individuals who are in the Salesforcespace.</p>
 
-
+ <p class = "">
+              I enrolled in Clarusway Salesforce Developer Program in February 2022 besides my full time teaching job and have since: 
+             <ul> <il>- Become certified Salesforce Administrator, Advanced Administrato, Platform App Builder and Platform Developer</ul></il> 
+             <ul> <il> - Become 3xRanger on Trailhead </ul></il> 
+             <ul> <il> - Earned 6 Super Badges  </ul></il> 
+             <ul> <il> - Completed 2 group projects  </ul></il> 
+             <ul> <il> - Grown my Linkedin network by >1,000  </ul></il> 
+             <ul> <il> - Joined countless virtual events and meetups </ul></il> 
+             <ul> <il> - Created a YouTube Channel based on APEX Tutorials  </ul></il> 
+             <ul> <il> - Realized I CAN shift careers </ul></il> 
+            </p>
  
 
 <br />
