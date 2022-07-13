@@ -15,7 +15,7 @@
 
  <p class = "">
               I enrolled in Clarusway Salesforce Developer Program in February 2022 besides my full time teaching job and have since: 
-             <ul> <il>- Become certified Salesforce Administrator, Advanced Administrato, Platform App Builder and Platform Developer</ul></il> 
+             <ul> <il>- Become certified Salesforce Administrator, Advanced Administrator, Platform App Builder and Platform Developer</ul></il> 
              <ul> <il> - Become 3xRanger on Trailhead </ul></il> 
              <ul> <il> - Earned 6 Super Badges  </ul></il> 
              <ul> <il> - Completed 2 group projects  </ul></il> 
